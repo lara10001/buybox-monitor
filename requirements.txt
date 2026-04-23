@@ -1,0 +1,4 @@
+keepa
+requests
+gspread
+openpyxl
