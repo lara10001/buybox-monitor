@@ -1,4 +1,0 @@
-keepa
-requests
-gspread
-openpyxl
